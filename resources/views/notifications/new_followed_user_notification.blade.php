@@ -1,0 +1,1 @@
+<li><a href="{{$notification->data['name']}}">{{$notification->data['name']}} followed you</a></li>
